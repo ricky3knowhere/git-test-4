@@ -7,5 +7,9 @@
   <body>
     <h1>Test Remote 2</h1>
     <p>Test Git to Github</p>
+    <ul>
+      <li>ucok</li>
+      <li>mamat</li>
+    </ul>
   </body>
 </html>
